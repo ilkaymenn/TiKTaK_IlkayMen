@@ -1,0 +1,1 @@
+import{F as t}from"./FormSvg.9b434145.js";import{d as o,o as r,k as e}from"./index.4e3bbf37.js";import"./SvgFace.vue_vue_type_script_setup_true_lang.2dfd5d0a.js";import"./SvgProfil.vue_vue_type_script_setup_true_lang.a10c130f.js";const l=o({__name:"[data]",props:{data:null},setup(a){return(n,p)=>(r(),e(t,{data:JSON.parse(a.data)},null,8,["data"]))}});export{l as default};

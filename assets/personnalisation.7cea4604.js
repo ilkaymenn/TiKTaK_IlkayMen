@@ -1,0 +1,1 @@
+import{F as r}from"./FormSvg.9b434145.js";import{d as e,o as n,k as t}from"./index.4e3bbf37.js";import"./SvgFace.vue_vue_type_script_setup_true_lang.2dfd5d0a.js";import"./SvgProfil.vue_vue_type_script_setup_true_lang.a10c130f.js";const l=e({__name:"personnalisation",props:{id:null},setup(o){return(a,i)=>(n(),t(r,{id:o.id},null,8,["id"]))}});export{l as default};

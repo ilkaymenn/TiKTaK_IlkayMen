@@ -1,0 +1,1 @@
+import{F as o}from"./FormSvg.9b434145.js";import{d as r,o as t,c as n,f as a}from"./index.4e3bbf37.js";import"./SvgFace.vue_vue_type_script_setup_true_lang.2dfd5d0a.js";import"./SvgProfil.vue_vue_type_script_setup_true_lang.a10c130f.js";const s=r({__name:"[id]",props:{id:null},setup(e){return(i,m)=>(t(),n("div",null,[a(o,{id:e.id},null,8,["id"])]))}});export{s as default};
